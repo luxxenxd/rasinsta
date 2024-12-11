@@ -10,7 +10,7 @@ export default function AboutUs() {
 
   return (
     <Container>
-      <Typography> O nás </Typography>
+      <Typography> O mne </Typography>
     </Container>
   );
 }
