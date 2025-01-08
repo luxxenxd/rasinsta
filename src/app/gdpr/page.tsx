@@ -14,4 +14,4 @@ export default function GDPR() {
     </Container>
   );
 }
-dasd
+dasdas
